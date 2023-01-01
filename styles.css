@@ -1,2 +1,22 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    text-align: left;
+    padding: 6px;
+  }
+#container{
+    text-align: center;
+}
 
-/* Your CSS Code here. */
+.total{
+    background-color: black;
+    color: white;
+}
+
+p{
+    color: grey;
+}
